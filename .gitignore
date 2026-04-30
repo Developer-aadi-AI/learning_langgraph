@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Large files (optional)
+*.xlsx
+*.json
+*.env
+.env
